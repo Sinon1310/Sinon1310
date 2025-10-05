@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&pause=1000&color=9A67EA&center=true&vCenter=true&width=700&lines=Hi,+I'm+Sinon+Rodrigues;Frontend+Developer+%26+Cloud+Enthusiast" alt="Typing SVG" />
 </h1>
 
-
 <h3 align="center">A Frontend-focused Full-Stack Developer passionate about crafting highly interactive and accessible web interfaces. Currently expanding expertise in networking, cloud infrastructure, and securing large-scale systems.</h3>
 
 ---
@@ -56,12 +55,12 @@ I love exploring new tech and taking something existing, then tinkering, customi
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sinon1310&show_icons=true&theme=dark&locale=en&title_color=9A67EA&icon_color=FFFFFF&border_color=9A67EA&hide_border=true" alt="Sinon's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sinon1310&show_icons=true&locale=en&layout=compact&theme=dark&title_color=9A67EA&icon_color=FFFFFF&border_color=9A67EA&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sinon1310&show_icons=true&theme=dark&hide_title=false&hide_border=true&bg_color=00000000&text_color=9A67EA&icon_color=9A67EA&title_color=9A67EA" alt="Sinon's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sinon1310&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=9A67EA&title_color=9A67EA" alt="Top Languages" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sinon1310&theme=dark&background=151515&ring=9A67EA&fire=9A67EA&sideLabels=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Sinon1310&theme=dark&background=00000000&hide_border=true&ring=9A67EA&fire=9A67EA&currStreakLabel=9A67EA&dates=FFFFFF" alt="GitHub Streak" width="60%" />
 </div>
 
 ---
