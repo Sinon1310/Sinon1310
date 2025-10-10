@@ -7,6 +7,7 @@
 ---
 
 ### 🔭 Currently Focused On
+- **KrishiMitram: AI-Based Farmer Advisory System** – Building an AI-powered platform for Kerala farmers using **React/Node.js** with **Malayalam NLP support**, enabling voice/image queries for crop disease detection and farming advice.
 - **CareSync: Remote Patient Monitoring (RPM)** – Building a secure, full-stack system using **React/TypeScript** and a **Supabase (PostgreSQL)** backend for continuous patient monitoring.  
 - **Deep Dive into Networking & Cloud** – Expanding system-level expertise by mastering **CCNA network security principles**, complemented by hands-on learning in **AWS Cloud infrastructure**.
 
